@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vP37OYhREyOIFUl/yy2E8la+7pkOsacYeQFQ3jID+62pPGT0IX5PvB1VuGopso7AZGlDQ0KQWsDQxQNiJORlBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cami\\Desktop\\IPS\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cami\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cami\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
